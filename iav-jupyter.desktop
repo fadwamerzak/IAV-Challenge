@@ -1,8 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=IAV — JupyterLab
-Comment=Open the IAV notebooks with the CUDA-capable teaching environment
-Exec=/usr/local/bin/iav-jupyter
-Icon=applications-science
-Terminal=true
-Categories=Development;Education;Science;
